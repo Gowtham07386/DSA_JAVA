@@ -1,5 +1,3 @@
-package Encapsulation;
-
 class Human{
    
     

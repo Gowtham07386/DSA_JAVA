@@ -1,4 +1,3 @@
-package Encapsulation;
 class Human{
     // private String name = "Gowtham";
     // private int age = 22;

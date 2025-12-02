@@ -1,4 +1,3 @@
-package Encapsulation;
 class Calculater{
     public int add(int a, int b){
         
@@ -21,7 +20,7 @@ public class Method_Overloading {
         
         Calculater obj = new Calculater();
 
-        int result = obj.add(4,7);
+        int result = obj.add(4,7,9);
 
         System.out.println(result);
     }

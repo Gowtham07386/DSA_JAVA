@@ -22,6 +22,7 @@ public class Super_method {
     public static void main(String[] args) {
 
         B obj = new B(8);
+        obj.equals(obj);
         
     }
     
